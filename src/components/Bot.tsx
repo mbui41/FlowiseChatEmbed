@@ -42,7 +42,7 @@ export type BotProps = {
   isFullPage?: boolean;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Hi! How can I help?';
 
 /*const sourceDocuments = [
     {
